@@ -13,11 +13,11 @@ Step 3. Install pytesseract (`python3 -m pip install --upgrade pytesseract`)
 
 Step 4. Install Pillow(basically an image library thing for processing some images) (`python3 -m pip install --upgrade Pillow`)
 
-Step 5. Download script.py (https://xnightslayer99.github.io/Slime-Minion-Afk-Helper/script.py)
+Step 5. Download script.py (<https://xnightslayer99.github.io/Slime-Minion-Afk-Helper/script.py>)
 
 Step 6. In your afk pool or whatever you use when afking do `/setspawn`
 
 Step 7. Run and Afk
 
 # Bug Reports
-Make an Issue report on the github (https://github.com/Xnightslayer99/Slime-Minion-Afk-Helper/issues) and I'll attempt to fix it within 3-5 business days of it being posted there
+Make an Issue report on the github (<https://github.com/Xnightslayer99/Slime-Minion-Afk-Helper/issues>) and I'll attempt to fix it within 3-5 business days of it being posted there
