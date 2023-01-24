@@ -1,9 +1,11 @@
 # Slime-Minion-Afk-Helper
 A python script to help you afk your slime minions overnight
+Still a WIP. Needs Images from disconnect screens.
 
 # Installation
 Requires Python >= 3.8
-***If you dont understand anything I tell you dont do it since I could just be trying to give your computer a virus***
+
+***If you dont understand anything I tell you, dont do it! I could just be trying to give your computer a virus.***
 ## Dependencies
 Step 1. Open Command Prompt (Can be done by pressing Windows Key + r and then typing 'cmd' in the little text box that appears)
 
